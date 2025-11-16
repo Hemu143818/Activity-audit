@@ -1,4 +1,9 @@
 # Exp Auditing Cloud Activity Using AWS CloudTrail
+```
+name :- k hemanth yadav
+reg no:- 212224100033
+```
+
 ## Aim
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud environment.
 ## Requirements
